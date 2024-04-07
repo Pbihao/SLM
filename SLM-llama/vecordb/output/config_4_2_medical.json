@@ -1,0 +1,12 @@
+{
+    "pool_size": 4,
+    "random_dropout": 0.2,
+    "weight_topk": 2,
+    "groups": 3,
+    "similarity_type": "cosine",
+    "pool_train_keys": true,
+    "pool_train_weights": false,
+    "task_pool_index_range": {
+        "medical": [0, 4]
+    }
+}
